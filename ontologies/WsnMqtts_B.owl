@@ -1,0 +1,991 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.1="wsn:d"
+    xmlns:j.0="wsn:t"
+    xmlns:wsn="http://www.semanticweb.org/ontologies/2012/0/WsnMqtts.owl#"
+    xmlns:j.2="wsn:W"
+    xmlns:j.3="wsn:a"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.4="wsn:m"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="wsn:msg_gateway_received_60">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.073718</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">60</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_40">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005220</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.073078</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">40</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_26">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.074358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">26</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_1">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.002852</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006484</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.003632</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CONNECT</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_59">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.007140</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.574998</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">59</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_30">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.074358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">30</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_50">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.007140</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.074998</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">50</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:time_update">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
+    <rdfs:domain rdf:resource="wsn:WSN"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasGateway">
+    <rdfs:domain rdf:resource="wsn:subscriber"/>
+    <rdfs:domain rdf:resource="wsn:publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_17">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.012948</j.1:elay_msg_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.215130</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">17</j.4:sg_number>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.228078</j.0:ime_received>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_58">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005220</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.073078</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">58</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_35">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.573718</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">35</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:id_publisher">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdfs:domain rdf:resource="wsn:topic_publisher"/>
+    <rdfs:domain rdf:resource="wsn:publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_25">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006820</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.574678</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">25</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_send">
+    <rdfs:subClassOf rdf:resource="wsn:gateway"/>
+    <owl:disjointWith rdf:resource="wsn:topic_subscriber_gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic_publisher">
+    <rdfs:subClassOf rdf:resource="wsn:publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic_publisher_gateway">
+    <rdfs:subClassOf rdf:resource="wsn:gateway"/>
+    <owl:disjointWith rdf:resource="wsn:topic_subscriber_gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_subscriber_send">
+    <rdfs:subClassOf rdf:resource="wsn:subscriber"/>
+    <owl:disjointWith rdf:resource="wsn:topic_subscriber"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:address_ip_local_msg">
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_27">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006180</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.574038</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">27</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasTopicSubscriber">
+    <rdfs:domain rdf:resource="wsn:topic_subscriber_gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_37">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.574358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">37</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasPublisher">
+    <rdfs:domain rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_subscriber_received">
+    <rdfs:subClassOf rdf:resource="wsn:subscriber"/>
+    <owl:disjointWith rdf:resource="wsn:topic_subscriber"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_10">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.018164</j.1:elay_msg_received>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGISTER</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">10</j.4:sg_number>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.071934</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.053770</j.0:ime_emission>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_16">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.030084</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.192222</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.162138</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">16</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_57">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005540</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.573398</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">57</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_36">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006820</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.074678</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">36</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_67">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.574358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">67</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_20">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006180</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.601102</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.594922</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">20</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic_subscriber">
+    <rdfs:subClassOf rdf:resource="wsn:subscriber"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_42">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.073718</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">42</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:id_topic">
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="wsn:topic"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:id_topic_subscriber">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdfs:domain rdf:resource="wsn:topic_subscriber"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_publisher_received">
+    <rdfs:subClassOf rdf:resource="wsn:publisher"/>
+    <owl:disjointWith rdf:resource="wsn:topic_publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_62">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006180</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.074038</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">62</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_38">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.073718</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">38</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_19">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.574358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">19</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_56">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.073718</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">56</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_21">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.667998</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.662138</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">21</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_23">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.007140</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.752462</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.745322</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">23</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_41">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006820</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.574678</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">41</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_number">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:id_subscriber">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdfs:domain rdf:resource="wsn:topic_subscriber"/>
+    <rdfs:domain rdf:resource="wsn:subscriber"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_61">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006180</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.574038</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">61</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_39">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.573718</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">39</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_55">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.574358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">55</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:delay_msg_received">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_18">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.011028</j.1:elay_msg_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.245322</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">18</j.4:sg_number>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.256350</j.0:ime_received>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasSubscriber">
+    <rdfs:domain rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_24">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.007140</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.074998</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">24</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_22">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006180</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.721310</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.715130</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">22</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_12">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.017356</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.112278</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.094922</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">12</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_5">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.003076</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.033989</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.030913</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGISTER</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_34">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.074358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">34</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_6">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.003396</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.042894</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.039497</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGISTER</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">6</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_44">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005540</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.073398</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">44</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasTopic">
+    <rdfs:domain rdf:resource="wsn:topic_subscriber_gateway"/>
+    <rdfs:domain rdf:resource="wsn:topic_publisher_gateway"/>
+    <rdfs:domain rdf:resource="wsn:topic_subscriber"/>
+    <rdfs:domain rdf:resource="wsn:topic_publisher"/>
+    <rdfs:domain rdf:resource="wsn:gateway"/>
+    <rdfs:domain rdf:resource="wsn:subscriber"/>
+    <rdfs:domain rdf:resource="wsn:publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:subscriber">
+    <rdfs:subClassOf rdf:resource="wsn:WSN"/>
+    <owl:disjointWith rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:status_topic">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:topic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_64">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.074358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">64</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_54">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.074358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">54</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:time_emission">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic">
+    <rdfs:subClassOf rdf:resource="wsn:WSN"/>
+    <owl:disjointWith rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic_subscriber_gateway">
+    <rdfs:subClassOf rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_33">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005540</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.573398</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">33</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_type">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_4">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.010044</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.027005</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.016961</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WILLMSG</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">4</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_11">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.024612</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.092470</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_7">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005188</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.050550</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.045361</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.3</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGACK</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">7</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_43">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.573718</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">43</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:time_received">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:id_topic_publisher">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdfs:domain rdf:resource="wsn:topic_publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_63">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.574358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">63</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:value_topic">
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:topic"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:gateway">
+    <rdfs:subClassOf rdf:resource="wsn:WSN"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_53">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005540</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.573398</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">53</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:name_topic">
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:topic"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_14">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.004420</j.1:elay_msg_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.142682</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGISTER</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">14</j.4:sg_number>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.147102</j.0:ime_received>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:address_port">
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
+    <rdfs:domain rdf:resource="wsn:subscriber"/>
+    <rdfs:domain rdf:resource="wsn:gateway"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="wsn:publisher"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_3">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.007484</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.015459</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.007975</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.3</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CONNECT</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">3</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:publisher">
+    <rdfs:subClassOf rdf:resource="wsn:WSN"/>
+    <owl:disjointWith rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_32">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006820</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.074678</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">32</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:address_ip">
+    <rdfs:domain rdf:resource="wsn:gateway"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="wsn:publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:subscriber"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_28">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006180</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.074038</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">28</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:time">
+    <j.0:ime rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1331667458751</j.0:ime>
+    <rdf:type rdf:resource="wsn:WSN"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
+    <rdfs:domain rdf:resource="wsn:WSN"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_47">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006500</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.574358</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">47</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_46">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005220</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.073078</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">46</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_8">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.004868</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.066062</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.061193</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.3</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGACK</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:WSN">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:id_topic_gateway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdfs:domain rdf:resource="wsn:topic_subscriber_gateway"/>
+    <rdfs:domain rdf:resource="wsn:topic_publisher_gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_48">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006820</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.074678</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">48</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_66">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.007140</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.074998</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">66</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_15">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.023532</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.173430</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.149898</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.3</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGACK</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">15</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:id_gateway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdfs:domain rdf:resource="wsn:topic_subscriber_gateway"/>
+    <rdfs:domain rdf:resource="wsn:topic_publisher_gateway"/>
+    <rdfs:domain rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:address_port_local_msg">
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_52">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005540</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.073398</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.067858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">52</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_2">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.003044</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.013724</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.010680</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WILLTOPIC</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_13">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.016844</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.122302</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.105458</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGISTER</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">13</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_31">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005220</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.573078</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">31</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_publisher_send">
+    <rdfs:subClassOf rdf:resource="wsn:publisher"/>
+    <owl:disjointWith rdf:resource="wsn:topic_publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received">
+    <rdfs:subClassOf rdf:resource="wsn:gateway"/>
+    <owl:disjointWith rdf:resource="wsn:topic_subscriber_gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_29">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006180</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.574038</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">29</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_45">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.006180</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.574038</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">45</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:isTopicOf">
+    <rdfs:domain rdf:resource="wsn:topic"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_9">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.004996</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.044494</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.039497</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">REGISTER</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_49">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005860</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.573718</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">49</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_65">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005540</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.573398</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">65</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_size">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#long"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_subscriber_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_publisher_received"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_send"/>
+    <rdfs:domain rdf:resource="wsn:msg_gateway_received"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:msg_gateway_received_51">
+    <j.1:elay_msg_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.005540</j.1:elay_msg_received>
+    <j.0:ime_received rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.573398</j.0:ime_received>
+    <j.0:ime_emission rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.567858</j.0:ime_emission>
+    <j.3:ddress_port rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1000</j.3:ddress_port>
+    <j.3:ddress_ip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.236.0.2</j.3:ddress_ip>
+    <j.4:sg_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUBLISH</j.4:sg_type>
+    <j.4:sg_number rdf:datatype="http://www.w3.org/2001/XMLSchema#long">51</j.4:sg_number>
+    <rdf:type rdf:resource="wsn:msg_gateway_received"/>
+  </rdf:Description>
+</rdf:RDF>

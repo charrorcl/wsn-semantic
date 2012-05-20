@@ -1,0 +1,60 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:wsn="http://www.semanticweb.org/ontologies/2012/0/WsnMqtts.owl#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="wsn:topic">
+    <rdfs:subClassOf rdf:resource="wsn:WSN"/>
+    <owl:disjointWith rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:publisher">
+    <rdfs:subClassOf rdf:resource="wsn:WSN"/>
+    <owl:disjointWith rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic_subscriber_gateway">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:isTopic">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasPublisher">
+    <rdfs:domain rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasTopic">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:WSN">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:subscriber">
+    <rdfs:subClassOf rdf:resource="wsn:WSN"/>
+    <owl:disjointWith rdf:resource="wsn:gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasGateway">
+    <rdfs:domain rdf:resource="wsn:subscriber"/>
+    <rdfs:domain rdf:resource="wsn:publisher"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic_publisher-gateway">
+    <owl:disjointWith rdf:resource="wsn:topic_subscriber_gateway"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic_publisher">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:gateway">
+    <rdfs:subClassOf rdf:resource="wsn:WSN"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:hasSubscriber">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="wsn:topic_subscriber">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>
